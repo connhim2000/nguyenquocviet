@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Add your content here.
+why don't JamWiki?
 
 
 = Details =
